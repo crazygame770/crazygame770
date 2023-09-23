@@ -1,1 +1,1 @@
-<h1>WebGame, Product Configurator, Webapp Developer!</h1>
+<h1>2D/3D Web Game, Web Application Developer!</h1>
